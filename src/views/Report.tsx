@@ -104,7 +104,7 @@ export const Report = () => {
 						color="success"
 						className="py-2 px-3 mr-4 ml-2 fw-600  mt-2"
 						onClick={() => {
-							sendToElastic(state);
+							// sendToElastic(state);
 						}}>
 						Send To Elastic
 					</Button>
